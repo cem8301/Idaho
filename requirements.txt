@@ -1,0 +1,5 @@
+numpy==1.23.1
+pandas==1.4.3
+psutil==5.9.1
+Shapely==1.8.2
+wget==3.2
